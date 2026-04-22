@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(36,36,36);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 42%;
+    top: 50px;
+    font-size: 50PX;
+}
+
+#telaJogo{
+    position: absolute;
+    left: 25%;
+    top: 20%;
+    background-image: url("../img/pasto.jpg");
+}
+
+div{
+    display: flex;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 700px;
+}
+
+ul{
+    list-style: none;
+}
